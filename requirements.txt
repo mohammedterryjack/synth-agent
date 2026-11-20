@@ -1,0 +1,6 @@
+# deck.py (make_deck) runs in .venv
+power-pptx==2.15.0
+pillow==13.0.0
+lxml==6.1.3
+XlsxWriter==3.3.3
+typing_extensions==4.16.0
